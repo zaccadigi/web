@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://challenge-dry-115629.framer.app/sitemap.xml
